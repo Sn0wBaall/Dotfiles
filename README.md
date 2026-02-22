@@ -27,7 +27,7 @@ makepkg -si
 ### Base packages
 
 ```bash
-sudo pacman -S bspwm sxhkd rofi feh kitty wget curl git clang vim nano net-tools moreutils obsidian keepassxc firefox lxappearance pulseaudio picom
+sudo pacman -S bspwm sxhkd rofi feh kitty wget curl git clang vim nano net-tools moreutils obsidian keepassxc firefox lxappearance pulseaudio picom xorg
 ```
 
 ```bash
