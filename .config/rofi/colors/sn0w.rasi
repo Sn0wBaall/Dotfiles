@@ -1,0 +1,10 @@
+* {
+    background:     #090A13FF;  /* azul noche profundo */
+    background-alt: #151726FF;  /* gris azulado suave */
+    foreground:     #D2D8FFFF;  /* gris claro suave */
+
+    selected:       #8F7CCBFF;  /* morado apagado, similar al accent */
+    active:         #7AA2F7FF;  /* azul primary suavizado */
+    urgent:         #F7768EFF;  /* rojo apagado, tipo alert */
+}
+
